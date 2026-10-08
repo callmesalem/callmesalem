@@ -1,36 +1,33 @@
-# 👋 Hi, I'm Shukri Salem
+# Hi, I'm Shukri Salem
 
-## 🛠 About Me
-I'm a **self-taught developer, builder, and systems architect** who transitioned into tech after years in **construction, team leadership, and property claims adjusting**.  
-I didn’t start in code. I started in the real world, solving problems the hard way.
+**AI Builder · Licensed Claims Professional** (Ohio & Florida)
 
-Today, I'm building **ChuckyOS** — an **autonomous AI-powered crypto hedge fund system** that blends **reinforcement learning**, **GPT decision-making**, **token intelligence**, and **live trading execution**.  
-It’s modular, complex, and real. I've built every layer while learning by doing.
+I build production AI systems for industries I have actually worked in. Two years as a licensed property claims adjuster (50–70 claims a month, Xactimate, settlements to $150K+) before founding an AI development studio. Every system I ship starts from a workflow I worked by hand.
 
-I use tools like **ChatGPT**, **Claude**, and **Groq** to generate ideas, write code, and accelerate learning.  
-But the real work happens in **testing**, **debugging**, and **integrating** — where I've earned every line of experience.  
-I'm always learning, improving, and building with intent.
+## What I'm building
+
+- **ClaimNimbus** — production CRM for Always Thankful Claims, live in production. Runs the firm's claim operation: 27 claims, 135 referral partners; in-app AI assistant (Larry) with claim memory and daily briefs; MCP connector serving Claude, ChatGPT, and Gemini; PostgreSQL with row-level security across 122 tables; approval queues on consequential actions.
+- **Maya** — a live voice-AI phone agent handling real business calls: conversational AI, lead qualification, automated message delivery to email and SMS.
+- **Production CRM** — authenticated team dashboard, PostgreSQL with row-level security, prospecting/campaign/referral engines, and a human-approval queue on all outbound actions.
+- **MCP bridge** — a Model Context Protocol integration exposing CRM pipeline, leads, deals, tasks, and activity to AI assistants.
+
+Designed and shipped via AI-assisted development: I read and direct the code; AI writes, reviews, and audits it. Stack: TypeScript, React, TanStack Start, Supabase/PostgreSQL, Vercel, ElevenLabs.
+
+## Credentials
+
+- Ohio Resident Public Insurance Adjuster #1714261 · Florida Non-Resident All-Lines Adjuster #G111129
+- HAAG Education, Hail & Wind Damage to Residential Roofs (course completion) · AdjusterPro Florida All-Lines Designation
+- Bilingual: English / Arabic
+
+## What I'm looking for
+
+Forward Deployed AI Engineer, AI Solutions Engineer, and Applied AI roles where insurance domain expertise is the differentiator. Open to remote.
+
+## Connect
+
+- giventakedevs.com
+- linkedin.com/in/shukri-salem-988037360
+- shukri.salem@outlook.com
 
 ---
-
-## 🚀 Projects I've Built
-- **ChuckSniper** – Real-time Solana sniper bot with PPO agents, stealth wallet logic, and rug detection.
-- **MoonAI** – Secure GPT-4 DevAgent with task chaining, memory, file execution, and model switching.
-- **KrakenTrader AI** – Trading bot with PPO, DQN, and LSTM agents, JSON logging, and simulation toggles.
-- **Universal Email Sender** – PyQt desktop app for GPT-powered messaging with CSV import and .exe build.
-
----
-
-## 🌟 My Mindset
-I'm not just coding. I'm building tools that solve real problems.  
-My background isn't traditional, but my mindset is relentless.  
-I value **execution over ego**, and **consistency over hype**.
-
-If you're working on something in **AI**, **fintech**, **crypto**, or **automation** and need someone who brings **grit, creativity, and proof of work**, let's connect.
-
----
-
-## 📫 Connect with Me
-- www.linkedin.com/in/shukri-salem-988037360
-  
-
+*Pinning insurance-relevant repos to my profile as they go public. Unrelated projects stay unpinned while job hunting.*
